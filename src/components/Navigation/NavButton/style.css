@@ -1,0 +1,23 @@
+.nav-button {
+    
+    width: 150px;
+    margin: 65px;
+    padding: 20px;
+    border: none;
+    background: #057984;
+    color: white;
+    font-size: 15px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.nav-button:hover {
+    background: rgb(106, 177, 184);
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+}
+
+.nav-button--active {
+    background: #6ab1b8;
+}
