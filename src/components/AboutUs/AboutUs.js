@@ -6,7 +6,7 @@ export class AboutUs extends React.Component {
     render() {
         return <div className="about">
             <img src="/img/renault.jpg" alt=""></img>
-            <div className="about-text">
+            <div className="about-txt">
                 <h1>About Us</h1>
                 <h5>Developer & <span>Design</span></h5>
                 <p>Renault S.A. is a French automobile manufacturing company founded in 1899.

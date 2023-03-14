@@ -1,5 +1,5 @@
 .nav-button {
-    
+    box-sizing: border-box;
     width: 150px;
     margin: 65px;
     padding: 20px;

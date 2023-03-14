@@ -14,18 +14,18 @@
     border-radius: 20px;
 }
 
-.about-text {
+.about-txt {
     width: 550px;
 }
 
-.about-text h1 {
+.about-txt h1 {
     color: white;
     font-size: 70px;
     text-transform: capitalize;
     margin-bottom: 20px;
 }
 
-.about-text h5 {
+.about-txt h5 {
     color: white;
     font-size: 25px;
     text-transform: capitalize;
@@ -37,7 +37,7 @@ span {
     color: #f9004d;
 }
 
-.about-text p {
+.about-txt p {
     color: white;
     letter-spacing: 1px;
     line-height: 28px;
